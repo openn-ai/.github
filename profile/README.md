@@ -10,6 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-I randomly purchased a domain called [openn.ai](openn.ai) cuz it reads a bit like [open.ai](open.ai). Time to stuff it with something 😅.
+I randomly purchased a domain called [openn.ai](https://openn.ai) cuz it reads a bit like [open.ai](https://open.ai). Time to stuff it with something 😅.
 
 Hopefully I'll somehow inflate it's value & make some money 💰.
